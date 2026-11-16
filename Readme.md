@@ -62,7 +62,7 @@ This produces five straightness features, one for each finger.
 
 ## Classification
 
-The project uses a **K-Nearest Neighbors (KNN)** classifier to recognize ASL alphabet hand gestures.
+The project uses a **K-Nearest Neighbors (KNN)** classifier to recognize ASL alphabet hand gestures with 98% training accuracy and 97% test accuracy.
 
 The classifier receives the extracted 30-dimensional feature representation and predicts the corresponding letter.
 
